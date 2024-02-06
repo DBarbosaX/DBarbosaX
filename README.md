@@ -10,7 +10,7 @@ In my current role, as Firmware Security Engineer in a multinacional computer co
 
 I hold the follow certificate:
 - Certified in Cybersecurity (CC) by (ISC)²
-
+--------------------------
 * 🌍  I'm based in Brazil
 * 🧠  I'm learning Rust and DevSecOps
 
