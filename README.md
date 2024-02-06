@@ -4,7 +4,12 @@ Hi 👋 My name is Vinícius Barbosa
 Firmware Security Engineer
 --------------------------
 
-I have been working as a Firmware Security Engineer since April 2022 at a global computer company. I hold a Certified in Cybersecurity (CC) credential issued by (ISC)², the world's leading cybersecurity and IT security professional organization. In my current role, I validate EFI codes and analyze hardware configuration issues before they are made available to the market. I use secure development, code review, malware analysis, reverse engineering, and hardware testing techniques to detect and prevent security vulnerabilities. I also collaborate with other engineers and stakeholders to ensure the quality and reliability of the products and solutions. I enjoy learning new technologies and develop languages, and I am passionate about ethical hacking and cybersecurity research. In my free time, I like to read, hike, and study languages.
+Graduate Electronic Engineer by Fundação Educacional Inaciana (FEI) and Post-Graduate in Cybersecurity by Faculdade de Engenharia de Sorocaba (FACENS), both in Brazi. 
+
+In my current role, as Firmware Security Engineer in a multinacional computer company, I validate EFI codes, firmware and hardware settings before they are made available to the market. I apply and develop security tests for firmwares, code review tests, malware analysis, reverse engineering, and hardware testing techniques to detect and prevent security vulnerabilities. I also collaborate with other engineers and stakeholders to ensure the quality and reliability of the products and solutions.
+
+I hold the follow certificate:
+- Certified in Cybersecurity (CC) by (ISC)²
 
 * 🌍  I'm based in Brazil
 * 🧠  I'm learning Rust and DevSecOps
