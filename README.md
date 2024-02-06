@@ -4,7 +4,7 @@ Hi 👋 My name is Vinícius Barbosa
 Firmware Security Engineer
 --------------------------
 
-Graduate Electronic Engineer by Fundação Educacional Inaciana (FEI) and Post-Graduate in Cybersecurity by Faculdade de Engenharia de Sorocaba (FACENS), both in Brazi. 
+Graduate Electronic Engineer by Fundação Educacional Inaciana (FEI) and Post-Graduate in Cybersecurity by Faculdade de Engenharia de Sorocaba (FACENS), both in Brazil. 
 
 In my current role, as Firmware Security Engineer in a multinacional computer company, I validate EFI codes, firmware and hardware settings before they are made available to the market. I apply and develop security tests for firmwares, code review tests, malware analysis, reverse engineering, and hardware testing techniques to detect and prevent security vulnerabilities. I also collaborate with other engineers and stakeholders to ensure the quality and reliability of the products and solutions.
 
